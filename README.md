@@ -10,7 +10,7 @@ Import schema.sql for Database Table 'items'
 
 `npm install`  
 `npm fund`  
-`node index.js`
+`npm start`
 
 ## Routes
 
